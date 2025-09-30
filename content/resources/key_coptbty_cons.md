@@ -7,6 +7,8 @@ description: 'This resource explains the key concepts of computability theory an
 file: /courses/24-242-logic-ii-spring-2004/ed0bd05ec59b448cbfe0b2599f68e177_key_coptbty_cons.pdf
 file_size: 790998
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

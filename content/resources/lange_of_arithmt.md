@@ -5,6 +5,8 @@ description: This resource explains the topic 'The Language of Arithmetic'. It a
 file: /courses/24-242-logic-ii-spring-2004/69264e67df9852bb9c5eb003b6c7fdb6_lange_of_arithmt.pdf
 file_size: 626440
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

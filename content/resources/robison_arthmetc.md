@@ -5,6 +5,8 @@ description: This resource explains the topic 'Robinson's Arithmetic' with the p
 file: /courses/24-242-logic-ii-spring-2004/14eebb48bc5835bd1b0286b965aff439_robison_arthmetc.pdf
 file_size: 335852
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

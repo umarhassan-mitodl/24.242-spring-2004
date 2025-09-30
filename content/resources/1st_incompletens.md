@@ -5,6 +5,8 @@ description: This resource explains 'Godel's First Incompleteness Theorem' with 
 file: /courses/24-242-logic-ii-spring-2004/84bf60d16f0accc297f0c9f55fa756fa_1st_incompletens.pdf
 file_size: 373090
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

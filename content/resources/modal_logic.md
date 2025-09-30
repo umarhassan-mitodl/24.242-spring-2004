@@ -4,6 +4,8 @@ description: This resource explains the Modal Logic and its related theorem.
 file: /courses/24-242-logic-ii-spring-2004/14fd086c8c3edf68af8b3d7d9653d36f_modal_logic.pdf
 file_size: 358817
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
