@@ -4,8 +4,6 @@ description: This file contains the answers to the questions asked in homework 8
 file: /courses/24-242-logic-ii-spring-2004/dad841dc28c9effb8ee1d565ff54ae11_hw8sampleans.pdf
 file_size: 68895
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

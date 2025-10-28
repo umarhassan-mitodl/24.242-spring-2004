@@ -5,8 +5,6 @@ description: This file contains the answers to the questions asked in the homewo
 file: /courses/24-242-logic-ii-spring-2004/97074cfd7abdb27eec782d519ee0cea7_hw7sampleans.pdf
 file_size: 18174
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

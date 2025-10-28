@@ -7,8 +7,6 @@ description: 'This resource explains ''The Church-Turing Thesis''. It also expla
 file: /courses/24-242-logic-ii-spring-2004/489f7e42fb619645158d7c21a8fb83ad_chuh_trng_thesis.pdf
 file_size: 415886
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

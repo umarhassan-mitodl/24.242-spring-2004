@@ -4,8 +4,6 @@ description: ''
 file: /courses/24-242-logic-ii-spring-2004/030950dab5b5dcb7e15880803c8d93ac_24242HW1samplefixed.pdf
 file_size: 92251
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

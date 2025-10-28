@@ -5,8 +5,6 @@ description: This resource explains tarski's theory of truth. It also explains t
 file: /courses/24-242-logic-ii-spring-2004/85ec169dba3ea9192b8fabf6e4b097df_tarski.pdf
 file_size: 495970
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

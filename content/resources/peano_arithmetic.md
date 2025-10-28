@@ -6,8 +6,6 @@ description: This resource explains the topic 'Peano Arithmetic'.It also explain
 file: /courses/24-242-logic-ii-spring-2004/2ba966be09dd1301d41d98be9276f3d1_peano_arithmetic.pdf
 file_size: 496488
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

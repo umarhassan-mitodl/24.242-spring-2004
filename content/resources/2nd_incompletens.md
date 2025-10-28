@@ -5,8 +5,6 @@ description: This resource explains 'Godel's Second Incompleteness Theorem'with 
 file: /courses/24-242-logic-ii-spring-2004/6f9412cac1745eab23b326493be754fc_2nd_incompletens.pdf
 file_size: 571399
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

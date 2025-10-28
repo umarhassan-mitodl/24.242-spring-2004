@@ -5,8 +5,6 @@ description: This resource explains 'Coding Proofs' with its related rules. It a
 file: /courses/24-242-logic-ii-spring-2004/31dfcdf2bebfafc1bcf14c16b2a90552_coding_proofs.pdf
 file_size: 164196
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
